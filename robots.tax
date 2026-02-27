@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weblift.top/sitemap.xml
+
+Disallow: /vercel.json
+Disallow: /.git/
